@@ -1,0 +1,2 @@
+
+make re && ./bsq test_files/map2 test_files/map3 && make fclean
